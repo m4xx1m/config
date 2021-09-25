@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/m4xx1m/.oh-my-zsh/plugins/common-aliases'
+let g:netrw_dirhist_6='/home/m4xx1m/chatclon3r/clon3r/modules'
+let g:netrw_dirhist_5='/home/m4xx1m/chatclon3r/clon3r'
+let g:netrw_dirhist_4='/home/m4xx1m/chatclon3r'
+let g:netrw_dirhist_3='/home/m4xx1m/chatclon3r/clon3r/modules'
+let g:netrw_dirhist_2='/home/m4xx1m/chatclon3r/clon3r'
+let g:netrw_dirhist_1='/home/m4xx1m/chatclon3r'
